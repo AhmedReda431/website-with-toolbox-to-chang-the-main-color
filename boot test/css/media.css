@@ -1,0 +1,6 @@
+@media (min-width:768 px) and (min-width:991 px){
+    .faq-accordion .panel-group .fa-chevron-down
+    {
+        float:none;
+    }
+}
